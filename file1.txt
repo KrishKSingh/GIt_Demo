@@ -11,3 +11,7 @@ Change 4:- for stash test for WI5 in progress.
 Change 5:- for WI6 on local master to test normal push.
 
 Change 6:- by team mate on remote mastter for bug3.
+
+Change 7:- for WI6 on local master to test normal push.
+
+Change 8:- on local master for WI7.
